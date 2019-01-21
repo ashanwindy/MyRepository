@@ -1,0 +1,9 @@
+﻿  graphtest.cpp
+e:\vs2017workspace\计算机图形学\计算机图形学\graphtest.cpp(25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs2017workspace\计算机图形学\计算机图形学\graphtest.cpp(30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vs2017workspace\计算机图形学\计算机图形学\graphtest.cpp(31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vs2017workspace\计算机图形学\计算机图形学\graphtest.cpp(93): warning C4305: “初始化”: 从“double”到“float”截断
+e:\vs2017workspace\计算机图形学\计算机图形学\graphtest.cpp(114): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vs2017workspace\计算机图形学\计算机图形学\graphtest.cpp(117): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vs2017workspace\计算机图形学\计算机图形学\graphtest.cpp(229): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  计算机图形学.vcxproj -> E:\VS2017workspace\计算机图形学\Debug\计算机图形学.exe
